@@ -1,0 +1,1 @@
+print('\n'.join(map(lambda x : f'{x[0]} {x[1]}',sorted(sorted((tuple(map(int,input().split())) for _ in range(int(input()))),key=lambda x : x[0]),key=lambda x : x[1]))))
