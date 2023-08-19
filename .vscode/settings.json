@@ -15,6 +15,9 @@
         "xiosbase": "c",
         "xlocale": "c",
         "xmemory": "c",
-        "cmath": "c"
+        "cmath": "c",
+        "queue": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp"
     }
 }
