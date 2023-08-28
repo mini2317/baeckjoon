@@ -1,0 +1,1 @@
+print(eval('(' + ')-('.join(str(sum(int(j)for j in f.split('+'))) for f in input().split('-')) + ')'))
